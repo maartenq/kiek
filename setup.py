@@ -17,7 +17,7 @@ requirements = [
 ]
 
 test_requirements = [
-    'pytest>=3.0.0',
+    'pytest>=3.0.1',
     'pytest-cov>=2.3.1',
     # TODO: put package test requirements here
 ]
