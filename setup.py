@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='kiek',
-    version='0.1.3',
+    version='0.1.4',
     description="A KISS Kiekshow App",
     long_description=readme + '\n\n' + history,
     author="Maarten Diemel",
