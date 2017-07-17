@@ -41,4 +41,4 @@ deploy:
   "on":
     tags: true
     repo: maartenq/kiek
-    condition: $TOXENV == py27
+    python: "2.7"
