@@ -1,6 +1,6 @@
-===============================
+====
 kiek
-===============================
+====
 
 .. image:: https://img.shields.io/pypi/v/kiek.svg
         :target: https://pypi.python.org/pypi/kiek
@@ -18,14 +18,6 @@ kiek
         :target: https://kiek.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/maartenq/kiek/shield.svg
-        :target: https://pyup.io/repos/github/maartenq/kiek/
-        :alt: Updates
-
-.. image:: https://pyup.io/repos/github/maartenq/kiek/python-3-shield.svg
-        :target: https://pyup.io/repos/github/maartenq/kiek/
-        :alt: Python 3
-
 
 A KISS Kiekshow App
 
@@ -35,7 +27,6 @@ A KISS Kiekshow App
 * PyPi: https://pypi.python.org/pypi/kiek
 * Travis CI: https://travis-ci.org/maartenq/kiek
 * Codecov: https://codecov.io/github/maartenq/kiek
-* PyUp: https://pyup.io/repos/github/maartenq/kiek/
 
 
 Features

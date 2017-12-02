@@ -6,6 +6,9 @@ History
 ------------------
 
 * Update requirents.txt for click 6.7
+* Removed PyUp
+* Removed travis deploy to PyPi
+
 
 
 0.2.3 (2017-07-18)
